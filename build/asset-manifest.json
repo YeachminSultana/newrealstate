@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab55967e.css",
+    "main.js": "/static/js/main.89e9ff3f.js",
+    "static/js/787.2b0a459f.chunk.js": "/static/js/787.2b0a459f.chunk.js",
+    "static/media/4.jpg": "/static/media/4.6f66e624e24d18371b9b.jpg",
+    "static/media/6.jpg": "/static/media/6.9b17e1134f1315f1b31a.jpg",
+    "static/media/Rahman.jpg": "/static/media/Rahman.5046064ef7bfe3e4c1d8.jpg",
+    "static/media/2.jpg": "/static/media/2.b50b9b831a92ebe6ab82.jpg",
+    "static/media/one.jpg": "/static/media/one.ba713776e09680a11327.jpg",
+    "static/media/Logo.png": "/static/media/Logo.2646d912ea34b415ed72.png",
+    "static/media/5.jpg": "/static/media/5.81934237c2e96383b2bc.jpg",
+    "static/media/SalmaBegum.jpg": "/static/media/SalmaBegum.3a152345521467991dbd.jpg",
+    "static/media/Fairuz-Ahmed.jpg": "/static/media/Fairuz-Ahmed.2af34a323786c0ea9d29.jpg",
+    "static/media/FarukAhmed.jpg": "/static/media/FarukAhmed.720ed00c16e6e9961369.jpg",
+    "index.html": "/index.html",
+    "main.ab55967e.css.map": "/static/css/main.ab55967e.css.map",
+    "main.89e9ff3f.js.map": "/static/js/main.89e9ff3f.js.map",
+    "787.2b0a459f.chunk.js.map": "/static/js/787.2b0a459f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab55967e.css",
+    "static/js/main.89e9ff3f.js"
+  ]
+}
